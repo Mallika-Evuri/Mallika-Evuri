@@ -56,18 +56,15 @@ Performed advanced SQL analysis to extract KPIs, customer trends, and business i
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mallika-Evuri&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallika-Evuri&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Mallika-Evuri&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
----
-
-## 🔥 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mallika-Evuri&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallika-Evuri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
